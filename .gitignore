@@ -29,3 +29,4 @@ logs/
 Thumbs.db
 
 # Custom files or directories to ignore
+pnpm-lock.yaml
